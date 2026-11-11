@@ -116,7 +116,6 @@ yarn run ts-mocha -p ./tsconfig.json -t 1000000 "tests/**/*.ts"
 
 13 tests covering every instruction in both programs, plus the failure paths.
 
-![Test run](assets/tests-passing.png)
 
 **Vault**
 
